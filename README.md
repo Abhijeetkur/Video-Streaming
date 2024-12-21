@@ -5,7 +5,7 @@ I developed a video streaming website that incorporates a robust backend built w
 
 I am still working on it to make its frontend good and user friendly and dynamically change resolutions, increase security of videos like netflix and many more.
 
-## For any queries and suggestion please write in issue
+## For any queries and suggestions please inform me in issues section
 
 
 ## API Reference
