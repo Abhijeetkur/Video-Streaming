@@ -1,5 +1,4 @@
-
-Video Streaming Web Application 
+## Video Streaming Web Application 
 
 I developed a video streaming website that incorporates a robust backend built with Spring and Spring Boot, and  using ReactJS and Tailwind CSS. The website leverages Video.js and HLS.js for seamless video streaming, ensuring a smooth user experience. To support various video resolutions and enhance streaming performance, I utilized FFmpeg to process video data into multiple formats. The integration of these technologies ensures efficient video delivery. 
 
