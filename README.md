@@ -5,7 +5,7 @@ I developed a video streaming website that incorporates a robust backend built w
 
 I am still working on it to make its frontend good and user friendly and dynamically change resolutions, increase security of videos like netflix and many more.
 
-## For any queries and suggestions please inform me in issues section
+## For any queries or suggestions, kindly refer to the Issues section to inform me.
 
 
 ## API Reference
@@ -27,5 +27,5 @@ I am still working on it to make its frontend good and user friendly and dynamic
 
 ![App Screenshot](https://github.com/Abhijeetkur/Video-Streaming/blob/main/Screenshot%202024-12-21%20152339.png)
 
-On left side of the ui you can play the video and on right you can upload the videos but you can play videos by entering videoid only for now.
+On the left side of the UI, you can play videos, and on the right side, you can upload videos. Currently, videos can only be played by entering the video ID.
 
