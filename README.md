@@ -25,6 +25,7 @@ spring.datasource.url=jdbc:mysql:xyz
 spring.datasource.username=your_user_name
 spring.datasource.password=your_password
 
+To Start the server
 run SpringStreamBackendApplication.java
 ```
 ### Frontend setup
