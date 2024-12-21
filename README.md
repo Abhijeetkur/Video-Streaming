@@ -21,6 +21,9 @@ I am still working on it to make its frontend good and user friendly and dynamic
   GET http://localhost:8080/api/v1/videos/{videoid}/master.m3u8
 ```
 
+#### HTTP Live Streaming(HLS) Packaging using FFmpeg – Easy Step-by-Step Tutorial
+  https://ottverse.com/hls-packaging-using-ffmpeg-live-vod/
+
 
 ## Screenshots
 
