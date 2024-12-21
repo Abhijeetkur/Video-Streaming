@@ -6,6 +6,44 @@ I am still working on it to make its frontend good and user friendly and dynamic
 
 ## For any queries or suggestions, kindly refer to the Issues section to inform me.
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Abhijeetkur/Video-Streaming.git
+```
+### Backend setup
+
+Go to the spring-stream-backend directory
+
+```bash
+set up application.properies for mysql
+
+# MySQL Database Configuration
+spring.datasource.url=jdbc:mysql:xyz
+spring.datasource.username=your_user_name
+spring.datasource.password=your_password
+
+run SpringStreamBackendApplication.java
+```
+### Frontend setup
+Install dependencies
+```bash
+    Go to the stream-front-end directory
+
+    cd stream-front-end
+```
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
 
 ## API Reference
 ###  All backend api present at \spring-stream-backend\src\main\java\com\stream\app\spring_stream_backend\controllers\VideoController.java
