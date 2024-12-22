@@ -47,7 +47,7 @@ Start the server
 ```
 
 ## API Reference
-###  All backend api present at \spring-stream-backend\src\main\java\com\stream\app\spring_stream_backend\controllers\VideoController.java
+###  All backend APIs are located in the VideoController.java file at the following path: \spring-stream-backend\src\main\java\com\stream\app\spring_stream_backend\controllers\
 #### Get video
 ##### Resolution 1080p - stream_0, 720p - stream_1, 360p - stream_2
 ```http
